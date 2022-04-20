@@ -1,6 +1,6 @@
 # Web_Test_AleksandraStojanovska
 
-##Technologies used :
+Technologies used :
 HTML,Sass,Bootstrap,JavaScript
 
 Sass is compiled with VS code extension Live Sass Compiler.
